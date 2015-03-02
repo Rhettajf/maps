@@ -1,0 +1,430 @@
+{
+  "title": "Line Spacing",
+  "id": 1,
+  "formatVersion": 2,
+  "attr": {
+    "style": {
+      "background": "#ffffff"
+    }
+  },
+  "ideas": {
+    "1": {
+      "title": "Core",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Font",
+          "id": 12,
+          "ideas": {
+            "1": {
+              "title": "x-height",
+              "id": 15,
+              "ideas": {
+                "1": {
+                  "title": "Typefaces with a large x-height need larger line spacing",
+                  "id": 22
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Stroke Weight",
+              "id": 16,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {
+                "1": {
+                  "title": "\nIncrease line spacing for thicker strokes to avoid heavy/dark blocks.\n",
+                  "id": 62,
+                  "ideas": {
+                    "1": {
+                      "title": "\nSans serifs tend to have thicker strokes than serif typefaces. \n",
+                      "id": 63
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          }
+        },
+        "2": {
+          "title": "Measure",
+          "id": 13,
+          "ideas": {
+            "1": {
+              "title": "\nLine spacing increases with measure",
+              "id": 21,
+              "ideas": {
+                "1": {
+                  "title": "45-75 characters per line for paragraph text",
+                  "id": 40
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          }
+        },
+        "3": {
+          "title": "Text Size",
+          "id": 14,
+          "ideas": {
+            "1": {
+              "title": "Large text such as headlines require tighter line spacing than\nparagraph text. \n",
+              "id": 23,
+              "ideas": {
+                "1": {
+                  "title": "\nHeadlines, especially in all caps are often set with negative or\nreduced letter spacing \n\n",
+                  "id": 24
+                }
+              }
+            },
+            "2": {
+              "title": "\nLine spacing increases with text size.",
+              "id": 25,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ffcc99"
+        }
+      }
+    },
+    "-1": {
+      "title": "Medium",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "Print",
+          "id": 7,
+          "ideas": {
+            "4": {
+              "title": "Leading",
+              "id": 49,
+              "ideas": {
+                "4": {
+                  "title": "120%",
+                  "id": 56,
+                  "ideas": {
+                    "1": {
+                      "title": "Font",
+                      "id": 51,
+                      "attr": {
+                        "style": {
+                          "background": "#ffff99"
+                        }
+                      },
+                      "ideas": {
+                        "1": {
+                          "title": "x-height",
+                          "id": 57,
+                          "ideas": {
+                            "1": {
+                              "title": "Use a medium x-height for body text",
+                              "id": 58,
+                              "ideas": {
+                                "1": {
+                                  "title": "balance and contrast between upper- and lower-case letters",
+                                  "id": 60
+                                },
+                                "2": {
+                                  "title": "brighter page",
+                                  "id": 61
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "2": {
+                          "title": "Stroke Width",
+                          "id": 67,
+                          "ideas": {
+                            "1": {
+                              "title": "Avoid using a font with a heavy stroke where ink can pool and distort text",
+                              "id": 68
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Text Size",
+                      "id": 20,
+                      "ideas": {
+                        "3": {
+                          "title": "10-12pt",
+                          "id": 52,
+                          "ideas": {
+                            "1": {
+                              "title": "Space",
+                              "id": 34,
+                              "ideas": {
+                                "1": {
+                                  "title": "Limited",
+                                  "id": 38,
+                                  "ideas": {
+                                    "1": {
+                                      "title": "Smaller text size if cost effective and space saving",
+                                      "id": 39,
+                                      "ideas": {}
+                                    }
+                                  }
+                                }
+                              },
+                              "attr": {
+                                "style": {}
+                              }
+                            },
+                            "2": {
+                              "title": "Proximity",
+                              "id": 33,
+                              "attr": {
+                                "style": {}
+                              }
+                            }
+                          }
+                        }
+                      },
+                      "attr": {
+                        "style": {
+                          "background": "#ffff99"
+                        }
+                      }
+                    },
+                    "3": {
+                      "title": "Measure",
+                      "id": 45,
+                      "ideas": {
+                        "1": {
+                          "title": "Fixed",
+                          "id": 46
+                        }
+                      },
+                      "attr": {
+                        "style": {
+                          "background": "#ffff99"
+                        }
+                      }
+                    }
+                  },
+                  "attr": {
+                    "style": {
+                      "background": "#ffff00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#ffff00"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ff99cc"
+            },
+            "position": [
+              83.5,
+              -263,
+              1
+            ]
+          }
+        },
+        "2": {
+          "title": "Screen",
+          "id": 8,
+          "ideas": {
+            "5": {
+              "title": "Line Height",
+              "id": 50,
+              "ideas": {
+                "4": {
+                  "title": "150%",
+                  "id": 55,
+                  "ideas": {
+                    "1": {
+                      "title": "Text Size",
+                      "id": 19,
+                      "ideas": {
+                        "5": {
+                          "title": "14-16px",
+                          "id": 53,
+                          "ideas": {
+                            "2": {
+                              "title": "Space",
+                              "id": 35,
+                              "ideas": {
+                                "1": {
+                                  "title": "Limitless",
+                                  "id": 37
+                                }
+                              },
+                              "attr": {
+                                "style": {}
+                              }
+                            },
+                            "3": {
+                              "title": "Proximity",
+                              "id": 32,
+                              "ideas": {
+                                "1": {
+                                  "title": "We read from further away",
+                                  "id": 36,
+                                  "ideas": {
+                                    "1": {
+                                      "title": "Small text causes eye fatigue on screen.",
+                                      "id": 31,
+                                      "attr": {
+                                        "style": {}
+                                      }
+                                    }
+                                  }
+                                },
+                                "2": {
+                                  "title": "PPI",
+                                  "id": 41,
+                                  "ideas": {
+                                    "1": {
+                                      "title": "More pixels means crisper text - 14pt on handheld high PPI devices",
+                                      "id": 42
+                                    }
+                                  },
+                                  "attr": {
+                                    "style": {}
+                                  }
+                                }
+                              },
+                              "attr": {
+                                "style": {}
+                              }
+                            }
+                          }
+                        }
+                      },
+                      "attr": {
+                        "style": {
+                          "background": "#ccffff"
+                        },
+                        "position": [
+                          196.5,
+                          -149.09375,
+                          1
+                        ]
+                      }
+                    },
+                    "2": {
+                      "title": "font",
+                      "id": 26,
+                      "ideas": {
+                        "1": {
+                          "title": "x-height",
+                          "id": 27,
+                          "ideas": {
+                            "1": {
+                              "title": "\nA larger x-height gives you more\npixels to work with. \n",
+                              "id": 29
+                            },
+                            "2": {
+                              "title": "\nA taller x-height, forces the counters open.\n\n\n",
+                              "id": 30
+                            }
+                          }
+                        },
+                        "2": {
+                          "title": "Stroke Weight",
+                          "id": 64,
+                          "ideas": {
+                            "2": {
+                              "title": "Use a moderate stroke width",
+                              "id": 66,
+                              "ideas": {
+                                "1": {
+                                  "title": "Light bleeds into thin stokes causing them to disappear",
+                                  "id": 65,
+                                  "attr": {
+                                    "style": {}
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      },
+                      "attr": {
+                        "style": {
+                          "background": "#ccffff"
+                        }
+                      }
+                    },
+                    "3": {
+                      "title": "Measure",
+                      "id": 43,
+                      "ideas": {
+                        "1": {
+                          "title": "Variable",
+                          "id": 44
+                        }
+                      },
+                      "attr": {
+                        "style": {
+                          "background": "#ccffff"
+                        }
+                      }
+                    }
+                  },
+                  "attr": {
+                    "style": {
+                      "background": "#00ffff"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#00ffff"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ff99cc"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ff99cc"
+        }
+      }
+    }
+  },
+  "links": []
+}
